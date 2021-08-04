@@ -1,3 +1,5 @@
+package Leetcode;
+
 public class BalancedBTree {
     class TreeNode {
         int val;

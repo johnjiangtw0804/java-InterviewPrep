@@ -1,3 +1,5 @@
+package Trend;
+
 import java.util.PriorityQueue;
 
 public class TrendMicro_2 {
